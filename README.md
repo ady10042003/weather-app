@@ -38,7 +38,6 @@ This is a simple web-based weather application that allows users to view weather
 
 ## Future Improvements
 
-- Add a five-day weather forecast.
 - Improve UI with more visual elements.
 - Implement unit conversion (Celsius/Fahrenheit).
 
