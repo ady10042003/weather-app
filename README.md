@@ -19,13 +19,14 @@ This is a simple web-based weather application that allows users to view weather
 
 ### Default Weather (User Location)
 
-1. ![Weather - User Location 1](screenshots/weather_location_1.png)
-2. ![Weather - User Location 2](screenshots/weather_location_2.png)
+1. ![Weather - User Location 1](photos/Screenshot%20(14).png)
+2. ![Weather - User Location 2](photos/Screenshot%20(10).png)
 
 ### Searched Location
 
-3. ![Weather - Search 1](screenshots/weather_search_1.png)
-4. ![Weather - Search 2](screenshots/weather_search_2.png)
+3. ![Weather - Search 1](photos/Screenshot%20(11).png)
+4. ![Weather - Search 2](photos/Screenshot%20(12).png)
+5. ![Weather - Search 3](photos/Screenshot%20(13).png)
 
 ## Technologies Used
 
